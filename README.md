@@ -13,7 +13,7 @@
  ┣ 📜load_data.py
  ┣ 📜main.py
  ┣ 📜run_fb15k.sh
- ┣ 📜run_wn18rr.sh
+ ┣ 📜run_wn18r.sh
  ```
 
 ## 1. Usage
