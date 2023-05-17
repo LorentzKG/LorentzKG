@@ -1,5 +1,5 @@
 #!/bin/bash
-python main.py --dataset WN18RR\
+python main.py --dataset wn18rr\
     --cuda True\
     --device cuda:0\
     --batch_size 512\
@@ -8,7 +8,6 @@ python main.py --dataset WN18RR\
     --npos 1\
     --margin 1.08\
     --max_norm 5.\
-    --reduce max\
     --lr 0.05\
     --gamma 0.9\
     --step_size 40\
