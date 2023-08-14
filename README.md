@@ -1,4 +1,4 @@
-# Codes for "LorentzKG: Fully Hyperbolic Knowledge Graph Embeddings with Lorentz Transformation"
+# Codes for "Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations"
 ```
 📦kg
  ┣ 📂data
