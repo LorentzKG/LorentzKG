@@ -51,3 +51,6 @@ bash run_wn18rr.sh
 `--optimizer`         Optimizer. Can be [rsgd, radam].
 
 `--valid_steps`       Controls the validation interval.
+
+## Figure
+<img src="hybonet_and_lorentzKG.png" width="800">
