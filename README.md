@@ -1,4 +1,4 @@
-# Codes for "Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations"
+# LorentzKG
 
 This code is the official implementation of the Findings of ACL 2024 paper:
 Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations.
