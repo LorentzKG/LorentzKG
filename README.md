@@ -1,4 +1,8 @@
 # Codes for "Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations"
+
+This code is the official implementation of the Findings of ACL 2024 paper:
+Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations.
+
 ```
 📦kg
  ┣ 📂data
@@ -54,3 +58,31 @@ bash run_wn18rr.sh
 
 ## Figure
 <img src="hybonet_and_lorentzKG.png" width="800">
+
+
+## Citation
+
+If you use this codebase, or otherwise found our work valuable, please cite:
+
+```
+@inproceedings{fan-etal-2024-enhancing,
+    title = "Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations",
+    author = "Fan, Xiran  and
+      Xu, Minghua  and
+      Chen, Huiyuan  and
+      Chen, Yuzhong  and
+      Das, Mahashweta  and
+      Yang, Hao",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.272",
+    doi = "10.18653/v1/2024.findings-acl.272",
+    pages = "4575--4589"
+    }
+```
